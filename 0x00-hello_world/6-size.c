@@ -1,12 +1,11 @@
 #include <stdio.h>
 
 /**
- *
  * main - Entry point
  *
  * Description: prints size of data types
  *
- * Return: 0, always
+ * Return: Always 0 (Success)
  */
 
 int main(void)
