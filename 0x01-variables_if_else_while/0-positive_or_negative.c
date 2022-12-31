@@ -6,7 +6,8 @@
 /**
  * main - Entry point
  *
- * Description: A program that tells whether a random number is positive or negative
+ * Description:
+ * A program that tells whether a random number is positive or negative
  *
  * Return: Always 0(Success)
  */
@@ -19,12 +20,12 @@ int main(void)
 
 	/* your code goes there */
 
-	if(n > 0)
+	if (n > 0)
 	{
 		printf("%d is positive\n", n);
 	}
 
-	else if(n < 0)
+	else if (n < 0)
 	{
 		printf("%d is negative\n", n);
 	}
